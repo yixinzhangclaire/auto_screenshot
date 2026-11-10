@@ -120,7 +120,7 @@ python3 ~/Downloads/screenshot.py
 
 ## 8. 常见问题
 
-**Q：截图全是粉色壁纸或桌面？**
+**Q：截图全是桌面壁纸？**
 
 A：通常是截图时浏览器没有处在前台，或 macOS 屏幕录制权限未开启。不要使用独立全屏模式；确认浏览器与 Terminal 在同一 Space；在最后的 8 秒倒计时内切回浏览器。检查 `test_first_page.png`，正常后再继续。
 
